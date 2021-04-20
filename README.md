@@ -29,18 +29,6 @@ If you are new to Python,[This YouTube series](https://www.youtube.com/playlist?
     * For [Mac](https://www.youtube.com/watch?v=daVgEXjv6DE)
 
  
-## Modules Structure:
-    .
-    ├── ...
-    ├── Module			# Each Module/Topic/Chapter
-    │   ├── Questions           # Queries/Questions related to chapter 
-    |    |   ├── .ipynb         # Questions Jupyter notebook
-    │   ├── Solutions           # Solved Queries - Answers to all Questions
-    |    |   ├── .ipynb         # Questions Jupyter notebook
-    |    |   ├── .csv           # CSV file / Dataset for stocks
-    |   ├── images              # Images used in Jupyter notebook, Just for seek of representation
-    │   └── Resource Matrial    # Different reference matrial(txt, doc, pdf)
-    └── ...
 
 Author & Contributor List
 --------------------------
