@@ -1,6 +1,6 @@
 Stock Market Analysis
 =====================
-Project source can be downloaded from https://github.com/SBZed/Stock-Market-Analysis.git
+Project source can be downloaded from https://github.com/shivasai-391/Stock-Prediction-Analysis/
 
 ## Introduction:
 **Investment Bankers, CA's, Hedge Fund / Portfolio Managers, Forex traders, Commodities Analysts.**<br>
